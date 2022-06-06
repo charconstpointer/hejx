@@ -1,2 +1,6 @@
 github.com/go-irc/irc v2.1.0+incompatible h1:pg7pMVq5OYQbqTxceByD/EN8VIsba7DtKn49rsCnG8Y=
 github.com/go-irc/irc v2.1.0+incompatible/go.mod h1:jJILTRy8s/qOvusiKifAEfhQMVwft1ZwQaVJnnzmyX4=
+github.com/kelseyhightower/envconfig v1.4.0 h1:Im6hONhd3pLkfDFsbRgu68RDNkGF1r3dvMUtDTo2cv8=
+github.com/kelseyhightower/envconfig v1.4.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
+golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f h1:Ax0t5p6N38Ga0dThY21weqDEyz2oklo4IvDkpigvkD8=
+golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
